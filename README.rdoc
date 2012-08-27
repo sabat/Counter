@@ -1,0 +1,27 @@
+= counter
+
+* {Homepage}[https://rubygems.org/gems/counter]
+* {Documentation}[http://rubydoc.info/gems/counter/frames]
+* {Email}[mailto:sabat at area51.org]
+
+== Description
+
+TODO: Description
+
+== Features
+
+== Examples
+
+  require 'counter'
+
+== Requirements
+
+== Install
+
+  $ gem install counter
+
+== Copyright
+
+Copyright (c) 2012 Steve Abatangle
+
+See LICENSE.txt for details.
